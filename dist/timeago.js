@@ -1,7 +1,7 @@
 /**
  * Copyright (c) 2016 hustcc
  * License: MIT
- * Forked: https://github.com/ClemMakesApps/timeago.js
+ * https://github.com/hustcc/timeago.js
 **/
 /* jshint expr: true */
 !function (root, factory) {
